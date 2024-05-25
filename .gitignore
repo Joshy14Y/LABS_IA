@@ -4,3 +4,13 @@ dataset/test/average/001.jpg
 /dataset
 mask.keras
 mask.keras
+/LAB_7/output
+/LAB_7/pokemon_jpg
+/LAB_8/P1/dog_dataset
+/LAB_8/P1/output
+/LAB_8/P2/tattoo_dataset_r128
+/LAB_7/.idea
+/LAB_8/P2/.idea
+/LAB_8/P1/.idea
+/LAB_8/P1/__pycache__
+/LAB_7/__pycache__
